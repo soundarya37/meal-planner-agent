@@ -1,4 +1,4 @@
-# 🍱 Meal Planner Agent
+# Meal Planner Agent
 
 > A no-code AI agent that generates a personalised weekly South Indian meal plan and emails it to you every Monday morning — automatically.
 
